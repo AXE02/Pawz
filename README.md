@@ -1,2 +1,2 @@
 # Pawz
-One-stop application for all dog needs
+One-stop application for all pet needs
